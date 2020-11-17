@@ -9,18 +9,15 @@
   quote: >
     Enable restaurants to sync their menus and enlist menus in 50+ directories.
   description: | # this will include new lines to allow paragraphs
-    Architecting end to end solution for menu management together with i18n internationalization for multi region support.
-
+    Architecting end to end solution for menu management together with i18n internationalization
+    for multi region support.
 - layout: top-middle
   name: Taxi Application
   quote: >
      Uber clone App
   description: | # this will include new lines to allow paragraphs
-    Developed a hybrid app of uber clone with ruby on rails tech stack by incorporating
-    by incorporating ActionCable for live popup notifications for the driver and customer.
-    1. Developed using ruby on rails, actioncable(for socket connection)
-    2. Map integration with open street maps/google maps.
-    3. Deployed on cloud.
+    Developed a hybrid app of uber clone with ruby on rails tech stack by
+    incorporating ActionCable for live popup notifications for the driver and customer.
 - layout: top-middle
   name: Lead2Sale
   github: sharat94/lead2sale
@@ -34,7 +31,3 @@
     for moving the stages as the prospect's interest level changes.The number of sales
     stages will vary based on the length of your sales cycle and the number of interactions
     needed to close a deal.
-    1. Developed using Ruby on Rails.
-    2. Worked with hstore etc in Postgres to store and retrieve data in hash format.
-    3. High-level automation attained using background jobs such as sidekiq and cron job
-    implementation.
