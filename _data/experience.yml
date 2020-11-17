@@ -20,8 +20,6 @@
 - layout: left
   job_title: Software Engineer
   dates: January 2019 - January 2020
-  quote: >
-    Tool that makes it easy for you to manage your location data, presence, reputation and analytics at scale.
   description: | # this will include new lines to allow paragraphs
     Worked on graphql and microservices. Lead dev effort for releasing restuarant menu management software.
 - layout: left
@@ -45,8 +43,6 @@
 - layout: left
   job_title: Software Developer
   dates: September 2016 - June 2017
-  quote: >
-    Worked on developing a preventive maintainence tool for logistics
   description: | # this will include new lines to allow paragraphs
     I worked as a junior developer in building the api endpoints and adding aunthentication layer to the endpoints.
 
