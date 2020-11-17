@@ -1,8 +1,40 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Role/Permission Management
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    A cool graphDB implementation for flexible permission/role management of the platform.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Implemented a flexible role/permission management software on AWS neptune as a microservice.
+- layout: top-middle
+  name: Menu Management
+  quote: >
+    Enable restaurants to sync their menus and enlist menus in 50+ directories.
+  description: | # this will include new lines to allow paragraphs
+    Architecting end to end solution for menu management together with i18n internationalization for multi region support.
+
+- layout: top-middle
+  name: Taxi Application
+  quote: >
+     Uber clone App
+  description: | # this will include new lines to allow paragraphs
+    Developed a hybrid app of uber clone with ruby on rails tech stack by incorporating
+    by incorporating ActionCable for live popup notifications for the driver and customer.
+    1. Developed using ruby on rails, actioncable(for socket connection)
+    2. Map integration with open street maps/google maps.
+    3. Deployed on cloud.
+- layout: top-middle
+  name: Lead2Sale
+  github: sharat94/lead2sale
+  quote: >
+    Workflow Management Tool
+  description: | # this will include new lines to allow paragraphs
+    Lead2Sale is a Lead Management System which helps automate customer acquisition
+    process.Customer Acquisition follows a sales pipeline which defines a typical step by
+    step process that sales reps go through to convert a prospect into a paying customer.A
+    sales stage is created for each step in the sales process.The sales rep is responsible
+    for moving the stages as the prospect's interest level changes.The number of sales
+    stages will vary based on the length of your sales cycle and the number of interactions
+    needed to close a deal.
+    1. Developed using Ruby on Rails.
+    2. Worked with hstore etc in Postgres to store and retrieve data in hash format.
+    3. High-level automation attained using background jobs such as sidekiq and cron job
+    implementation.
