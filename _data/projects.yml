@@ -3,7 +3,7 @@
   quote: >
     A cool graphDB implementation for flexible permission/role management of the platform.
   description: | # this will include new lines to allow paragraphs
-    Spike test to perform a scalability check on AWS neptune for 150000 nodes
+    Spike test to perform a scalability check on AWS neptune for 150000 nodes.
     Implemented a flexible role/permission management software on AWS neptune as a microservice.
 - layout: top-middle
   name: Menu Management
@@ -23,7 +23,6 @@
     by incorporating ActionCable for live popup notifications for the driver and customer.
 - layout: top-middle
   name: Lead2Sale
-  github: sharat94/lead2sale
   quote: >
     Workflow Management Tool
   description: | # this will include new lines to allow paragraphs
