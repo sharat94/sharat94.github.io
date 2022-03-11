@@ -1,8 +1,18 @@
 - layout: left
+  company: Colearn
+  link: colearn.id
+  job_title: Product Engineer
+  dates: April 2021 - Present
+  quote: >
+    Building the future of indonesia learning platform
+  description: | # this will include new lines to allow paragraphs
+    Build the infrastructure for the monetization and live class experience of the learning platform.
+
+- layout: left
   company: Finly
   link: finlyhq.com
   job_title: Product Engineer (SSE-1)
-  dates: Sptember 2020 - Present
+  dates: Sptember 2020 - April 2021
   quote: >
     Enabling CFOs to automate & govern Accounts Payable
   description: | # this will include new lines to allow paragraphs

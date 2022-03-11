@@ -1,4 +1,26 @@
 - layout: top-middle
+  name: Zoom Platform Integration
+  quote: >
+    Integrated zoom platform within the SAAS platform
+  description: | # this will include new lines to allow paragraphs
+    Integrated zoom platform within the SAAS platform with complete support |
+     for the lifecycle webhooks. Added recording management support to migrate |
+    and handle ~6 TB of videos
+- layout: top-middle
+  name: Payment Checkout System
+  quote: >
+    Built the web payment system
+  description: | # this will include new lines to allow paragraphs
+    Built the web payment system with package, coupon management and payment gateway integration
+    which could scale for 4.6 million users.
+- layout: top-middle
+  name: Notification Managment
+  quote: >
+    Handle the whatsapp/slack/email notifications to 4.6 million users
+  description: | # this will include new lines to allow paragraphs
+    Built a scalable notification management system with API rate limiting.
+    Used rails, sidekiq(ent) and redis to handle the notifications.
+- layout: top-middle
   name: Role/Permission Management
   quote: >
     A cool graphDB implementation for flexible permission/role management of the platform.
