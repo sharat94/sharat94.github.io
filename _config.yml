@@ -24,7 +24,7 @@ linkedin_username: sharat94
 additional_links:
 - title: Download Resume
   icon: fas fa-file-download
-  url: ./assets/SharatResume.pdf
+  url: https://drive.google.com/file/d/14BA0Cs9rZk42OmBNyNkkjd_YJLhSV3DD/view?usp=drive_link
 
 # About Section
 # about_title: About Me
