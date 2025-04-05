@@ -1,59 +1,64 @@
 - layout: left
+  company: Freelancer
+  job_title: Freelance Product Engineer
+  dates: September 2022 - Present
+  description: |
+    - Developed educational technology products to improve learning engagement and personalize user experience.
+    - Designed scalable features, including adaptive learning paths and interactive tools for assessments.
+    - Leveraged backend services, database management, and cloud infrastructure to support high-traffic environments.
+    - Applied agile methodologies for timely project delivery and quality assurance.
+
+- layout: left
   company: Colearn
   link: colearn.id
-  job_title: Product Engineer
-  dates: April 2021 - Present
-  quote: >
-    Building the future of indonesia learning platform
-  description: | # this will include new lines to allow paragraphs
-    Build the infrastructure for the monetization and live class experience of the learning platform.
+  job_title: Product Engineer/SSE
+  dates: April 2021 - August 2022
+  description: |
+    - Built a notifications system that scaled for notifying 4.5 million users.
+    - Designed and built a recording management service handling 6TB+ of class recordings for audits/QA.
+    - Developed a web payment system with package, coupon management, and payment gateway integration.
+    - Created several internal productivity tools to address engineering and customer service pain points.
 
 - layout: left
   company: Finly
   link: finlyhq.com
-  job_title: Product Engineer (SSE-1)
-  dates: Sptember 2020 - April 2021
-  quote: >
-    Enabling CFOs to automate & govern Accounts Payable
-  description: | # this will include new lines to allow paragraphs
-    Handling end to end from product feature ideation to usage analytics and deciding feature enhancement scopes.
+  job_title: Product Engineer/SSE
+  dates: September 2020 - April 2021
+  description: |
+    - Revamped accounts payable & vendor management SaaS, improving retention by 85%.
+    - Piloted and adopted agile methodologies for consistent product delivery.
+
 - layout: left
   company: Synup
-  link: synup.com
   job_title: Team Lead
-  dates: January 2020 - Sptember 2020
-  quote: >
-    Tool that makes it easy for you to manage your location data, presence, reputation and analytics at scale.
-  description: | # this will include new lines to allow paragraphs
-    Handle the billing, review generation and notification components of our SAAS platform
-    Implement agile methodologies and determine team velocity with proper sprint planning and sprint retrospectives
+  dates: January 2020 - September 2020
+  description: |
+    - Maintained billing, notification, and review campaign functions of SaaS product.
+    - Integrated listings with Siri, Cortana, and Google Assistant, scaling the product across 160,000+ businesses.
+
 - layout: left
+  company: Synup
   job_title: Software Engineer
   dates: January 2019 - January 2020
-  description: | # this will include new lines to allow paragraphs
-    Worked on graphql and microservices. Lead dev effort for releasing restuarant menu management software.
+  description: |
+    - Implemented a flexible and secure user management system using a graph database.
+    - Scaled the 'Locations' module for large enterprise customers across USA, UK, Australia, and Europe.
+
 - layout: left
-  company: Cybrilla
-  link: cybrilla.com
-  job_title: Software Developer
+  company: Cybrilla Technologies
+  job_title: Software Engineer
   dates: October 2017 - December 2018
-  quote: >
-    Worked on a leading payroll management software.
-  description: | # this will include new lines to allow paragraphs
-    My team and I are responsible for developing and maintaining the cloud solution for a leading payroll management software
+  description: |
+    - Developed and maintained cloud solutions for leading payroll management software.
+    - Added and maintained new features for a production application serving 400+ customers.
+
 - layout: left
   company: Fueblabs Automations
-  link: feub.in
-  job_title: Team Lead
-  dates: July 2017 - October 2017
-  quote: >
-    Worked on developing a preventive maintainence tool for logistics
-  description: | # this will include new lines to allow paragraphs
-    My team and I were responsible for developing and maintaining fleet management software (codenamed beelogix).
-- layout: left
-  job_title: Software Developer
-  dates: September 2016 - June 2017
-  description: | # this will include new lines to allow paragraphs
-    I worked as a junior developer in building the api endpoints and adding aunthentication layer to the endpoints.
+  job_title: Software Engineer
+  dates: September 2016 - October 2017
+  description: |
+    - Developed a hybrid Uber-clone app with Ruby on Rails and ActionCable for live notifications.
+    - Built a backend CRM for India's first air ambulance project (airrescue.in), supporting 6000+ ambulances and 1000+ hospitals.
+
 
 
