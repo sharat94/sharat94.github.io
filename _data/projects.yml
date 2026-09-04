@@ -1,57 +1,41 @@
 - layout: top-middle
-  name: Zoom Platform Integration
+  name: Notification platform
   quote: >
-    Integrated zoom platform within the SAAS platform
-  description: | # this will include new lines to allow paragraphs
-    Integrated zoom platform within the SAAS platform with complete support |
-     for the lifecycle webhooks. Added recording management support to migrate |
-    and handle ~6 TB of videos
-- layout: top-middle
-  name: Payment Checkout System
-  quote: >
-    Built the web payment system
-  description: | # this will include new lines to allow paragraphs
-    Built the web payment system with package, coupon management and payment gateway integration
-    which could scale for 4.6 million users.
-- layout: top-middle
-  name: Notification Managment
-  quote: >
-    Handle the whatsapp/slack/email notifications to 4.6 million users
-  description: | # this will include new lines to allow paragraphs
-    Built a scalable notification management system with API rate limiting.
-    Used rails, sidekiq(ent) and redis to handle the notifications.
-- layout: top-middle
-  name: Role/Permission Management
-  quote: >
-    A cool graphDB implementation for flexible permission/role management of the platform.
-  description: | # this will include new lines to allow paragraphs
-    Spike test to perform a scalability check on AWS neptune for 150000 nodes.
-    Implemented a flexible role/permission management software on AWS neptune as a microservice.
-- layout: top-middle
-  name: Menu Management
-  quote: >
-    Enable restaurants to sync their menus and enlist menus in 50+ directories.
-  description: | # this will include new lines to allow paragraphs
-    Architecting end to end solution for menu management together with
-    i18n internationalization for multi region support.
-    Add multi currency support for the platform
+    Real-time alerts for 4.5M+ users
+  description: |
+    Architected a notification platform with Kafka and queue-based delivery across WhatsApp, Slack, and email, including API rate limiting.
 
 - layout: top-middle
-  name: Taxi Application
+  name: Recording management
   quote: >
-     Uber clone App
-  description: | # this will include new lines to allow paragraphs
-    Developed a hybrid app of uber clone with ruby on rails tech stack
-    by incorporating ActionCable for live popup notifications for the driver and customer.
+    ~6TB of class recordings
+  description: |
+    Built a recording-management service to migrate and store ~6TB of videos, with Zoom lifecycle webhook support, for audits and QA.
+
 - layout: top-middle
-  name: Lead2Sale
+  name: Web payments
   quote: >
-    Workflow Management Tool
-  description: | # this will include new lines to allow paragraphs
-    Lead2Sale is a Lead Management System which helps automate customer acquisition
-    process.Customer Acquisition follows a sales pipeline which defines a typical step by
-    step process that sales reps go through to convert a prospect into a paying customer.A
-    sales stage is created for each step in the sales process.The sales rep is responsible
-    for moving the stages as the prospect's interest level changes.The number of sales
-    stages will vary based on the length of your sales cycle and the number of interactions
-    needed to close a deal.
+    Packages, coupons, and gateways
+  description: |
+    Shipped web payments with package and coupon management and payment-gateway integration for a large EdTech user base.
+
+- layout: top-middle
+  name: Roles and permissions
+  quote: >
+    Graph-based access control
+  description: |
+    Designed Neo4j-based role and permission management for enterprise SaaS customers, including a scalability spike on AWS Neptune.
+
+- layout: top-middle
+  name: Talent-assessment SaaS
+  quote: >
+    Campaigns, psychometrics, and IDPs
+  description: |
+    Contract work on an enterprise assessment platform (Rails, React, PostgreSQL): Individual Development Plans, RTL/Arabic localization, feature flags, and publisher integrations.
+
+- layout: top-middle
+  name: Listing integrations
+  quote: >
+    Siri, Cortana, and Google Assistant
+  description: |
+    Shipped assistant listing integrations and scaled location and campaign features for a SaaS serving 160,000+ businesses.

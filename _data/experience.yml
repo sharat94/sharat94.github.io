@@ -1,64 +1,54 @@
 - layout: left
-  company: Freelancer
-  job_title: Freelance Product Engineer
+  company: Freelance
+  job_title: Freelance Product Engineer · Bengaluru
   dates: September 2022 - Present
   description: |
-    - Developed educational technology products to improve learning engagement and personalize user experience.
-    - Designed scalable features, including adaptive learning paths and interactive tools for assessments.
-    - Leveraged backend services, database management, and cloud infrastructure to support high-traffic environments.
-    - Applied agile methodologies for timely project delivery and quality assurance.
+    **Talent-assessment platform (contract)**
+    - Engineered features on an enterprise assessment SaaS (Rails, React, PostgreSQL) for campaigns, psychometrics, and reporting.
+    - Shipped Individual Development Plan workflows: skills (private vs global), manager views, PDF reports, and approval/rejection emails.
+    - Delivered RTL/Arabic localization, project feature flags, and third-party assessment-publisher integrations.
+
+    **Digital reading product**
+    - Built backend and product features for personalized lessons, placement assessments, and progress monitoring.
 
 - layout: left
   company: Colearn
   link: colearn.id
-  job_title: Product Engineer/SSE
+  job_title: Senior Software Engineer
   dates: April 2021 - August 2022
   description: |
-    - Built a notifications system that scaled for notifying 4.5 million users.
-    - Designed and built a recording management service handling 6TB+ of class recordings for audits/QA.
-    - Developed a web payment system with package, coupon management, and payment gateway integration.
-    - Created several internal productivity tools to address engineering and customer service pain points.
+    - Architected a notification platform that delivered real-time alerts to 4.5M+ users via Kafka and queue-based systems.
+    - Built a recording-management service to migrate and store ~6TB of class recordings, cutting storage cost and improving retrieval for audits/QA.
+    - Shipped web payments with packages, coupons, and payment-gateway integration.
 
 - layout: left
   company: Finly
   link: finlyhq.com
-  job_title: Product Engineer/SSE
+  job_title: Senior Software Engineer
   dates: September 2020 - April 2021
   description: |
-    - Revamped accounts payable & vendor management SaaS, improving retention by 85%.
-    - Piloted and adopted agile methodologies for consistent product delivery.
+    - Revamped accounts-payable and vendor-management workflows on a financial-ops SaaS as part of a rebuild that retained 85%+ of existing customers.
 
 - layout: left
   company: Synup
-  job_title: Team Lead
-  dates: January 2020 - September 2020
+  job_title: Software Engineer to Team Lead
+  dates: January 2019 - September 2020
   description: |
-    - Maintained billing, notification, and review campaign functions of SaaS product.
-    - Integrated listings with Siri, Cortana, and Google Assistant, scaling the product across 160,000+ businesses.
-
-- layout: left
-  company: Synup
-  job_title: Software Engineer
-  dates: January 2019 - January 2020
-  description: |
-    - Implemented a flexible and secure user management system using a graph database.
-    - Scaled the 'Locations' module for large enterprise customers across USA, UK, Australia, and Europe.
+    - Promoted to Team Lead; owned billing, notifications, and review campaigns for a SaaS serving 160,000+ businesses.
+    - Designed Neo4j-based role and permission management for enterprise customers.
+    - Shipped listing integrations for Siri, Cortana, and Google Assistant.
 
 - layout: left
   company: Cybrilla Technologies
   job_title: Software Engineer
   dates: October 2017 - December 2018
   description: |
-    - Developed and maintained cloud solutions for leading payroll management software.
-    - Added and maintained new features for a production application serving 400+ customers.
+    - Built and maintained payroll software used by 400+ production customers on Ruby on Rails and PostgreSQL.
 
 - layout: left
   company: Fueblabs Automations
   job_title: Software Engineer
   dates: September 2016 - October 2017
   description: |
-    - Developed a hybrid Uber-clone app with Ruby on Rails and ActionCable for live notifications.
-    - Built a backend CRM for India's first air ambulance project (airrescue.in), supporting 6000+ ambulances and 1000+ hospitals.
-
-
-
+    - Developed a real-time ride-hailing app with WebSocket notifications (Rails, ActionCable).
+    - Built backend CRM for India’s first air ambulance service, coordinating 6,000+ ambulances and 1,000+ hospitals.
